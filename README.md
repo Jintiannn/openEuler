@@ -1,5 +1,9 @@
 # OpenEuler: Your Gateway to the Open-Source Community.
 
+<div align=center>
+<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/logo.png" width="100">
+</div>
+
 ## Embark on your Journey.
 The primary website of openEuler is https://openeuler.org/. For engineers, the archive is available in https://www.openeuler.org/zh/download/archive/. <br/>
 
