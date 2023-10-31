@@ -1,4 +1,5 @@
 # OpenEuler: Your Gateway to the Open-Source Community.
+<p align="center"># OpenEuler: Your Gateway to the Open-Source Community.</p>
 
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/logo.png" width="300">
