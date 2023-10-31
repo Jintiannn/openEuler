@@ -1,7 +1,7 @@
 # OpenEuler: Your Gateway to the Open-Source Community.
 
 <div align=center>
-<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/logo.png" width="300">
+<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/logo.png" width="500">
 </div>
 
 <div align=center>
