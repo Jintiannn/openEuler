@@ -61,8 +61,8 @@ Within the community, we typically encourage not only identifying issues but als
 **3. Contributing Software Packages.** Helping Fill Missing Software Packages for openEuler.<br />
 **Before that, developers need to grasp two fundamental concepts:** <br />
 * Understanding what a Linux software package is, or how the Linux operating system is organized.<br />
-* Knowing how to create a software package.<br /></p>
-<p>**4. Developing New Software.** Creating a brand-new software based on your ideas and contributing it to the openEuler community, becoming a part of the openEuler distribution.<br />
+* Knowing how to create a software package.</p>
+<br> **4. Developing New Software.** Creating a brand-new software based on your ideas and contributing it to the openEuler community, becoming a part of the openEuler distribution.<br />
 **There are two methods to integrate your work into the openEuler community:** <br />
 * **Develop in Other Communities and Integrate into openEuler:** Assuming you already have your project on platforms like GitHub, GitLab, or Gitee, you only need to follow the third participation method to add the software to the 'src-openeuler' repo.<br />
 * **Develop within our Community and Integrate in openEuler.** Or you can establish your project on https://gitee.com/openeuler, like 'hosting' your project within the openEuler community.</p>
