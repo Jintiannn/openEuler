@@ -62,9 +62,9 @@ On the left corner of the box lies a link to sign the [CIA](https://clasign.osin
 
 Various special interest groups (SIG) constitute the community. **Here you have two options:**
 * **Find and apply for groups where you share the same unique interest.** <br />
-Find the existing SIG in https://gitee.com/openeuler/community/tree/master/sig.<br />
+Find the [existing SIG](https://gitee.com/openeuler/community/tree/master/sig.)<br />
 * **Apply for creating one when yours is niche, so that others can find and join you!** <br />
-Read how the Technical Committee (TC) manage SIG in https://gitee.com/openeuler/community/tree/master/zh/technical-committee/governance.
+Read [how the Technical Committee (TC) manage SIG](https://gitee.com/openeuler/community/tree/master/zh/technical-committee/governance.)</p>
 
 ### What can I do?
 
