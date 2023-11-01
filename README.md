@@ -22,7 +22,11 @@
 </p>
 
 ## Embark on your Journey.
-The primary website of openEuler is https://openeuler.org/. For engineers, the archive is available in https://www.openeuler.org/zh/download/archive/. <br/>
+<div align=center>
+<a href="https://www.openeuler.org/en/"><img src="https://github.com/Jintiannn/HWopenEuler/blob/main/start%20lo.png" width=150></a>
+</div>
+
+For engineers, the [archive](https://www.openeuler.org/zh/download/archive/.) is also available. <br/>
 
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/Download_Archive.png">
