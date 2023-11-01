@@ -14,6 +14,11 @@
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/share_on-X-%23000000?style=plastic&logo=X&logoColor=%23000000" />
   </a>
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/share_on-facebook-%230866FF?style=plastic&logo=facebook&logoColor=%230866FF" />
+  </a>
+  <a herf="https://uk.linkedin.com/">
+    <img src="https://img.shields.io/badge/share_on-linkedin-%230A66C2?style=plastic&logo=linkedin&logoColor=%230A66C2" />
 </p>
 
 ## Embark on your Journey.
