@@ -48,13 +48,11 @@ As a starter, it's normal that you may have some difficulty in handling so much 
 
 Open source indicates freedom, yet it not equals to freedom. As people's abiding by the laws and regulations are of paramount importance in the development of a community, anyone who are eager to join openEuler shall sign CLA first.
 
-On the left corner of the box lies a link to sign the CIA.
+On the left corner of the box lies a link to sign the [CIA](https://clasign.osinfra.cn/sign/gitee_openeuler-1611298811283968340).
 
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/circled.png">
 </div>
-
-After clicking, you will be redirected to the [CIA sign page](https://clasign.osinfra.cn/sign/gitee_openeuler-1611298811283968340).
 
 **For most users:**
 * Click Sign Employee CIA if you have signed the CLA as an employee of a company that has signed the CLA.
