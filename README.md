@@ -33,7 +33,7 @@ For engineers, the [archive](https://www.openeuler.org/zh/download/archive/.) is
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/Download_Archive.png">
 </div>
 
-<p>Moving the cursor to <mark>Developers</mark> on the menu bar, you can see a drop-down list box. From here you can join our team as 
+Moving the cursor to [Developers](https://www.openeuler.org/en/) on the menu bar, you can see a drop-down list box. From here you can join our team as 
 developers!</p>
 
 <div align=center>
