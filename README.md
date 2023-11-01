@@ -60,13 +60,13 @@ In the community, we use the 'issue' system for reporting concerns. Before submi
 **2. Fixing Bugs.** <br />
 Within the community, we typically encourage not only identifying issues but also providing solutions. When you raise an issue, it would be better if you can also offer a patch.</p>
 **3. Contributing Software Packages.** Helping Fill Missing Software Packages for openEuler.<br />
-        **Before that, developers need to grasp two fundamental concepts:** <br />
-            * Understanding what a Linux software package is, or how the Linux operating system is organized.<br />
-            * Knowing how to create a software package.</p>
+  **Before that, developers need to grasp two fundamental concepts:** <br />
+    * Understanding what a Linux software package is, or how the Linux operating system is organized.<br />
+    * Knowing how to create a software package.</p>
 **4. Developing New Software.** Creating a brand-new software based on your ideas and contributing it to the openEuler community, becoming a part of the openEuler distribution.<br />
     **There are two methods to integrate your work into the openEuler community:** <br />
-        (1) **Develop in Other Communities and Integrate into openEuler:** Assuming you already have your project on platforms like GitHub, GitLab, or Gitee, you only need to follow the third participation method to add the software to the 'src-openeuler' repo.
-        (2) **Develop within our Community and Integrate in openEuler.** Or you can establish your project on https://gitee.com/openeuler, like 'hosting' your project within the openEuler community.</p>
+      * **Develop in Other Communities and Integrate into openEuler:** Assuming you already have your project on platforms like GitHub, GitLab, or Gitee, you only need to follow the third participation method to add the software to the 'src-openeuler' repo.<br />
+      * **Develop within our Community and Integrate in openEuler.** Or you can establish your project on https://gitee.com/openeuler, like 'hosting' your project within the openEuler community.</p>
 
 Finally, we extend a heartfelt welcome to everyone to join our community. With the openEuler platform, let’s come together to create a richer, more intelligent world.
 
