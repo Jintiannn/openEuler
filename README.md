@@ -33,7 +33,7 @@ Open source indicates freedom, yet it not equals to freedom. As people's abiding
 On the left corner of the box lies a link to sign the CIA.
 
 <div align=center>
-<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/circled.png">(https://www.openeuler.org/en/)
+<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/circled.png">
 </div>
 
 After clicking, you will be redirected to another web page (https://clasign.osinfra.cn/sign/gitee_openeuler-1611298811283968340).
