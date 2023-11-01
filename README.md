@@ -23,11 +23,9 @@
 
 ## Embark on your Journey.
 
-<div>
-<a href="https://www.openeuler.org/en/"><img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/start%20lo.png" width=170></a>
-</div></p>
+For most users, click [here](https://www.openeuler.org/en/) to start. 
 
-For engineers, the [archive](https://www.openeuler.org/zh/download/archive/.) is also available. <br/>
+For engineers, the [archive](https://www.openeuler.org/en/download/archive/) is also available. <br/>
 
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/Download_Archive.png">
