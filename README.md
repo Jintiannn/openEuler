@@ -53,21 +53,20 @@ Read how the Technical Committee (TC) manage SIG in https://gitee.com/openeuler/
 
 ### What can I do?
 
-With CIA signed and group joined or created, it’s time for you to think about what you can do to the community. Basically it can be concluded into four types.<br />
+With CIA signed and group joined or created, it’s time for you to think about what you can do to the community. Basically it can be concluded into four types.</p>
 **1. Finding Bugs/Offering Improvements.** <br />
 experience→find questions→report to the community (with instructive suggestions) <br />
-In the community, we use the 'issue' system for reporting concerns. Before submission, contributors specify the relevant 'repo' (usually referred to as a repository) where the issue belongs. For example, the Linux operating system's 'kernel' has its own 'repo' for efficient issue management.
+In the community, we use the 'issue' system for reporting concerns. Before submission, contributors specify the relevant 'repo' (usually referred to as a repository) where the issue belongs. For example, the Linux operating system's 'kernel' has its own 'repo' for efficient issue management.</p>
 **2. Fixing Bugs.** <br />
 Within the community, we typically encourage not only identifying issues but also providing solutions. When you raise an issue, it would be better if you can also offer a patch.</p>
 **3. Contributing Software Packages.** Helping Fill Missing Software Packages for openEuler.<br />
         **Before that, developers need to grasp two fundamental concepts:** <br />
-            *Understanding what a Linux software package is, or how the Linux operating system is organized.<br />
-            *Knowing how to create a software package.
-**4. Developing New Software.** Creating a brand-new software based on your ideas and contributing it to the openEuler community, becoming a part of the openEuler distribution.
-    **There are two methods to integrate your work into the openEuler community:**
-        (1)**Develop in Other Communities and Integrate into openEuler:** Assuming you already have your project on platforms like GitHub, GitLab, or Gitee, you only need to follow the third participation method to add the software to the 'src-openeuler' repo.
-        (2)**Develop within our Community and Integrate in openEuler.** Or you can establish your project on https://gitee.com/openeuler, like 'hosting' your project within the openEuler community.
-
+            * Understanding what a Linux software package is, or how the Linux operating system is organized.<br />
+            * Knowing how to create a software package.</p>
+**4. Developing New Software.** Creating a brand-new software based on your ideas and contributing it to the openEuler community, becoming a part of the openEuler distribution.<br />
+    **There are two methods to integrate your work into the openEuler community:** <br />
+        (1) **Develop in Other Communities and Integrate into openEuler:** Assuming you already have your project on platforms like GitHub, GitLab, or Gitee, you only need to follow the third participation method to add the software to the 'src-openeuler' repo.
+        (2) **Develop within our Community and Integrate in openEuler.** Or you can establish your project on https://gitee.com/openeuler, like 'hosting' your project within the openEuler community.</p>
 
 Finally, we extend a heartfelt welcome to everyone to join our community. With the openEuler platform, let’s come together to create a richer, more intelligent world.
 
