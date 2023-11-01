@@ -23,11 +23,11 @@
 
 ---
 
-### 💁What’s openEuler?
+### 💁 What’s openEuler?
 
 OpenEuler is an open-source operating system designed for digital infrastructure. Here, anyone can freely *access*, *modify*, and *distribute* its source code. In the era of the digital economy, openEuler will facilitate the operation of 5G, optical cables, big data, cloud, etc.<br />
 
-### 👀Where openEuler can be used?
+### 👀 Where openEuler can be used?
 
 It can be widely deployed on various forms of devices, including **servers**, **cloud computing**, **edge computing**, **embedded**, etc. Its application scenarios cover **I**nformation Technology (IT), **C**ommunication Technology (CT), and **O**perational Technology (OT), providing a unified operating system that supports multiple devices.<br />
 
@@ -37,7 +37,7 @@ Multiple kernels not only enables openEuler to cover a broader range of business
 
 With the openEuler platform as the foundation, the same application can migrate across various scenarios, including the cloud, edge computing, IoT, connected vehicles, industrial parks, and more. This capability reduces the development barriers and lays the foundation for a thriving application ecosystem.<br />
 
-### 🔥What is the core competitiveness of openEuler?
+### 🔥 What is the core competitiveness of openEuler?
 
 Apart from some hardcore technical aspects within the openEuler community, the core competitive strength of openEuler is also evident in the community's "soft" power.<br />
 
@@ -45,7 +45,7 @@ Apart from some hardcore technical aspects within the openEuler community, the c
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/goal_openeuler.png" width="830">
 </div>
 
-### 📈What is the core driving force behind the rapid growth of openEuler?
+### 📈 What is the core driving force behind the rapid growth of openEuler?
 
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/driver_openeuler.png" width="500">
@@ -121,4 +121,8 @@ Within the community, we typically encourage not only identifying issues but als
 
 Finally, we extend a heartfelt welcome to everyone to join our community. With the openEuler platform, let’s come together to create a richer, more intelligent world.
 
-**OpenEuler community welcomes each and every one of you!**
+<p align="center">
+
+## **OpenEuler community welcomes each and every one of you!**
+
+</p>
