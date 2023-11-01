@@ -34,19 +34,19 @@ For engineers, the [archive](https://www.openeuler.org/zh/download/archive/.) is
 </div>
 
 Moving the cursor to [Developers](https://www.openeuler.org/en/) on the menu bar, you can see a drop-down list box. From here you can join our team as 
-developers!</p>
+developers.</p>
 
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/uncircled.png">
 </div>
 
-**Now, welcome to the community!**
-
 As a starter, it's normal that you may have some difficulty in handling so much information altogether. Yet following our simple steps, soon you'll be more familiar with this community~
 
-### Sign Contributor License Agreement (CLA) first.
+### ✒️ Sign Contributor License Agreement (CLA) first.
 
-Open source indicates freedom, yet it not equals to freedom. As people's abiding by the laws and regulations are of paramount importance in the development of a community, anyone who are eager to join openEuler shall sign CLA first.
+> Open source may indicate freedom, yet it not equals to freedom.
+
+As people's abiding by the laws and regulations are of paramount importance in the development of a community, anyone who are eager to join openEuler shall sign CLA first.
 
 On the left corner of the box lies a link to sign the [CIA](https://clasign.osinfra.cn/sign/gitee_openeuler-1611298811283968340).
 
