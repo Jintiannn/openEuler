@@ -36,7 +36,7 @@ On the left corner of the box lies a link to sign the CIA.
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/circled.png">
 </div>
 
-After clicking, you will be redirected to another web page (https://clasign.osinfra.cn/sign/gitee_openeuler-1611298811283968340).
+After clicking, you will be redirected to the [CIA sign page](https://clasign.osinfra.cn/sign/gitee_openeuler-1611298811283968340).
 
 **For most users:**
 * Click Sign Employee CIA if you have signed the CLA as an employee of a company that has signed the CLA.
