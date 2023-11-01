@@ -23,7 +23,7 @@
 
 ## Embark on your Journey.
 <div align=center>
-<a href="https://www.openeuler.org/en/"><img src="https://github.com/Jintiannn/HWopenEuler/blob/main/start%20lo.png" width=150></a>
+<a href="https://www.openeuler.org/en/"><img src="https://github.com/Jintiannn/HWopenEuler/blob/main/start%20lo.png" width=200></a>
 </div>
 
 For engineers, the [archive](https://www.openeuler.org/zh/download/archive/.) is also available. <br/>
