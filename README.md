@@ -55,8 +55,8 @@ On the left corner of the box lies a link to sign the [CIA](https://clasign.osin
 </div>
 
 **For most users:**
-* Click Sign Employee CIA if you have signed the CLA as an employee of a company that has signed the CLA.
-* Click Sign Individual CIA if you are an independent developer or your company has not signed the enterprise CIA with the community.</p>
+* Click [Sign Employee CIA](https://clasign.osinfra.cn/sign-cla) if you have signed the CLA as an employee of a company that has signed the CLA.
+* Click [Sign Individual CIA](https://clasign.osinfra.cn/sign-cla) if you are an independent developer or your company has not signed the enterprise CIA with the community.</p>
 
 ### Join a Group.
 
