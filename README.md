@@ -1,12 +1,20 @@
-# OpenEuler: Your Gateway to the Open-Source Community.
-
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/logo.png" width="500">
 </div>
 
-<div align=center>
-<img src="">
-</div>
+# Your Gateway to the Open-Source Community.
+
+<p align="center">
+  <a href="https://www.reddit.com/">
+    <img src="https://img.shields.io/badge/share_on-reddit-%23FF4500?style=plastic&logo=reddit&logoColor=%23FF4500" />
+  </a>
+  <a href="https://news.ycombinator.com/">
+    <img src="https://img.shields.io/badge/share_on-Hacker%20News-%23F0652F?style=plastic&logo=Y%20Combinator&logoColor=%23F0652F" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/share_on-X-%23000000?style=plastic&logo=X&logoColor=%23000000" />
+  </a>
+</p>
 
 ## Embark on your Journey.
 The primary website of openEuler is https://openeuler.org/. For engineers, the archive is available in https://www.openeuler.org/zh/download/archive/. <br/>
