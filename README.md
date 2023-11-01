@@ -33,9 +33,9 @@ It can be widely deployed on various forms of devices, including **servers**, **
 
 In the face of diverse application scenarios, openEuler goes beyond offering the Linux kernel alone. It also provides real-time kernels tailored to **edge computing**, **embedded**, **IoT**, etc. This offers customers a range of options, extending its coverage to a wider array of application scenarios. This stands as a crucial differentiator for openEuler compared to traditional operating systems.<br />
 
-Multiple kernels not only enables openEuler to cover a broader range of business scenarios but also facilitates a unified development view and consistent development interfaces across different scenarios. This makes software more transferrable across different systems, enhancing development efficiency. <br />
+Multiple kernels not only enables openEuler to cover a broader range of business scenarios but also facilitates a unified development view and consistent development interfaces across different scenarios. This makes software more transferrable across different systems, enhancing efficiency for development. <br />
 
-With the openEuler platform as the foundation, the same application can migrate across various scenarios, including the cloud, edge computing, IoT, connected vehicles, industrial parks, and more. This capability reduces the development barriers and lays the foundation for a thriving application ecosystem.<br />
+With the openEuler platform as the foundation, the same application can migrate across various scenarios, including the cloud, edge computing, IoT, connected vehicles, industrial parks, etc. This capability reduces the development barriers and lays the foundation for a thriving application ecosystem.<br />
 
 ### 🔥 What is the core competitiveness of openEuler?
 
@@ -52,6 +52,7 @@ Apart from some hardcore technical aspects within the openEuler community, the c
 </div>
 
 **The active participation of community developers is the key driving force behind this progress.** <br />
+
 Based on publicly available information, since the source code was opened on December 31, 2019, openEuler has evolved into one of China's most dynamic open-source communities. The community has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs. Its diverse user base encompasses 🏬enterprises, 🔬research institutions, 🏫universities, 🙌sister communities, 👤individual enthusiasts, and even 🎒high school students.<br />
 
 
@@ -106,7 +107,7 @@ Read [how the Technical Committee (TC) manage SIG](https://gitee.com/openeuler/c
 
 With CIA signed and group joined or created, it’s time for you to think about what you can do to the community. Basically it can be concluded into four types.</p>
 **1.🔎 Finding Bugs/Offering Improvements.** <br />
-experience→find questions→report to the community (with instructive suggestions) <br />
+*experience--→find questions--→report to the community (with instructive suggestions)* <br />
 In the community, we use the 'issue' system for reporting concerns. Before submission, contributors specify the relevant 'repo' (usually referred to as a repository) where the issue belongs. For example, the Linux operating system's 'kernel' has its own 'repo' for efficient issue management.</p>
 
 **2.💪 Fixing Bugs.** <br />
