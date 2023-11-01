@@ -54,6 +54,9 @@ Apart from some hardcore technical aspects within the openEuler community, the c
 **The active participation of community developers is the key driving force behind this progress.** <br />
 Based on publicly available information, since the source code was opened on December 31, 2019, openEuler has evolved into one of China's most dynamic open-source communities. The community has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs. Its diverse user base encompasses 🏬enterprises, 🔬research institutions, 🏫universities, 🙌sister communities, 👤individual enthusiasts, and even 🎒high school students.<br />
 
+
+
+
 ---
 
 ## Embark on your Journey.
@@ -119,9 +122,9 @@ Within the community, we typically encourage not only identifying issues but als
 * **Develop in Other Communities and Integrate into openEuler:** Assuming you already have your project on platforms like GitHub, GitLab, or Gitee, you only need to follow the third participation method to add the software to the 'src-openeuler' repo.<br />
 * **Develop within our Community and Integrate in openEuler.** Or you can establish your project on https://gitee.com/openeuler, like 'hosting' your project within the openEuler community.</p>
 
-Finally, we extend a heartfelt welcome to everyone to join our community. With the openEuler platform, let’s come together to create a richer, more intelligent world.
+Finally, we extend a heartfelt welcome to everyone to join our community. With the openEuler platform, let’s come together to create a richer, more intelligent world.<br />
 
 <p align="center">
-
-**OpenEuler community welcomes each and every one of you!**
+🎊OpenEuler community welcomes each and every one of you!🎊
 </p>
+
