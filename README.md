@@ -123,6 +123,5 @@ Finally, we extend a heartfelt welcome to everyone to join our community. With t
 
 <p align="center">
 
-## **OpenEuler community welcomes each and every one of you!**
-
+**OpenEuler community welcomes each and every one of you!**
 </p>
