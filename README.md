@@ -70,7 +70,7 @@ So far, it has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contri
 
 ---
 
-## 🏃 Now, embark on your Journey.
+## 🏃 Now, embark on your journey.
 For most users, click [here](https://www.openeuler.org/en/) to start. <br />
 For engineers, the [archive](https://www.openeuler.org/en/download/archive/) is also available. <br/>
 
@@ -92,17 +92,17 @@ As a starter, it's normal that you may have some difficulty in handling so much 
 
 As people's abiding by the laws and regulations are of paramount importance in the development of a community, anyone who are eager to join openEuler shall sign CLA first.
 
-On the left corner of the box lies a link to sign the [CIA](https://clasign.osinfra.cn/sign/gitee_openeuler-1611298811283968340).
+On the left corner of the box lies a link to sign the [CLA](https://clasign.osinfra.cn/sign/gitee_openeuler-1611298811283968340).
 
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/circled.png" width="900">
 </div>
 
 **For most users:**
-* Click [Sign Employee CIA](https://clasign.osinfra.cn/sign-cla) if you have signed the CLA as an employee of a company that has signed the CLA.
-* Click [Sign Individual CIA](https://clasign.osinfra.cn/sign-cla) if you are an independent developer or your company has not signed the enterprise CIA with the community.</p>
+* Click [Sign Employee CLA](https://clasign.osinfra.cn/sign-cla) if you have signed the CLA as an employee of a company that has signed the CLA.
+* Click [Sign Individual CLA](https://clasign.osinfra.cn/sign-cla) if you are an independent developer or your company has not signed the enterprise CLA with the community.</p>
 
-### 👥 Join a Group.
+### 👥 Join a group.
 
 Various special interest groups (SIG) constitute the community. **Here you have two options:**
 * **Find and apply for groups where you share the same unique interest.** <br />
@@ -112,24 +112,26 @@ Read [how the Technical Committee (TC) manage SIG](https://gitee.com/openeuler/c
 
 ### 😯 What can I do?
 
-With CIA signed and group joined or created, it’s time for you to think about what you can do to the community. Basically it can be concluded into four types.</p>
-**1.🔎 Finding Bugs/Offering Improvements.** <br />
-*experience--→find questions--→report to the community (with instructive suggestions)* <br />
-In the community, we use the 'issue' system for reporting concerns. Before submission, contributors specify the relevant 'repo' (usually referred to as a repository) where the issue belongs. For example, the Linux operating system's 'kernel' has its own 'repo' for efficient issue management.</p>
+With CLA signed and group joined or created, it’s time for you to think about what you can do to the community. There are basically four steps, which you can take one by one.</p>
 
-**2.💪 Fixing Bugs.** <br />
+**1.🔎 Finding bugs/Offering improvements.** <br />
+You can: *experience--→find questions--→report to the community (with instructive suggestions)* <br />
+In the community, we use the 'issue' system for reporting concerns. Before submission, contributors specify the relevant 'repo' (usually referred to as a repository) where the issue belongs. For example, the 'kernel' of Linux operating system has its own 'repo' for efficient issue management.</p>
+
+**2.💪 Fixing bugs.** <br />
 Within the community, we typically encourage not only identifying issues but also providing solutions. When you raise an issue, it would be better if you can also offer a patch.</p>
 
-**3.📦 Contributing Software Packages.** Helping Fill Missing Software Packages for openEuler.<br />
-**Before that, developers need to grasp two fundamental concepts:** <br />
-* Understanding what a Linux software package is, or how the Linux operating system is organized.<br />
-* Knowing how to create a software package.</p>
+**3.📦 Contributing software packages.** 
+Assist in filling software packages if you find something missing.<br />
+  **But before that, developers need to grasp two fundamental concepts:** <br />
+    * Understanding what a Linux software package is, or how the Linux operating system is organized.<br />
+    * Knowing how to create a software package.</p>
 
-**4.💡 Developing New Software.** Creating a brand-new software based on your ideas and contributing it to the openEuler community, becoming a part of the openEuler distribution.<br />
+**4.💡 Developing new softwares.** Creating a brand-new software based on your ideas and contributing it to the openEuler community, making it a part of the openEuler distribution.<br />
 **There are two methods to integrate your work into the openEuler community:** <br />
-* **Develop in Other Communities and Integrate into openEuler:** Assuming you already have your project on platforms like GitHub, GitLab, or Gitee, you only need to follow the third participation method to add the software to the 'src-openeuler' repo.<br />
-* **Develop within our Community and Integrate in openEuler.** Or you can establish your project on [Gitee](https://gitee.com/openeuler), like 'hosting' your project within the openEuler community.</p>
+* **Develop in other communities and integrate into openEuler:** Assuming you already have your project on platforms like GitHub, GitLab, or Gitee, you only need to follow the third participation method to add the software to the 'src-openeuler' repo.<br />
+* **Develop within our community and integrate in openEuler.** Or you can establish your project on [Gitee](https://gitee.com/openeuler), like 'hosting' your project within the openEuler community.</p>
 
-Finally, we extend a heartfelt welcome to everyone to join our community. With the openEuler platform, let’s come together to create a richer, more intelligent world.<br />
+Finally, we extend a heartfelt welcome to everyone to join our community❤️. With the openEuler platform, let’s come together to create a richer and more intelligent world.<br />
 
 <h1 align="center">🎊OpenEuler community welcomes each and every one of you!🎊<h1>
