@@ -133,4 +133,4 @@ Assist in filling software packages if you find something missing.<br />
 
 Finally, we extend a heartfelt welcome to everyone to join our community❤️. With the openEuler platform, let’s come together to create a richer and more intelligent world.<br />
 
-<h2 align="center">🎊OpenEuler community welcomes each and every one of you!🎊<h2>
+<p align="center">🎊OpenEuler community welcomes each and every one of you!</p>
