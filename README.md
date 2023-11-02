@@ -62,7 +62,7 @@ OpenEuler is an open-source operating system designed for digital infrastructure
   * 🎒 high school
   * 🙌 sister communities
   * 🔬 research institutions
-  * 👤 individual enthusiasts
+  * 👤 all walks of life
 
 * Our community keeps growing day by day:
 So far, the community has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs.<br />
@@ -75,14 +75,14 @@ For most users, click [here](https://www.openeuler.org/en/) to start. <br />
 For engineers, the [archive](https://www.openeuler.org/en/download/archive/) is also available. <br/>
 
 <div align=center>
-<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/Download_Archive.png">
+<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/Download_Archive.png" width="900">
 </div>
 
 Moving the cursor to [Developers](https://www.openeuler.org/en/) on the menu bar, you can see a drop-down list box. From here you can join our team as 
 developers.</p>
 
 <div align=center>
-<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/uncircled.png">
+<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/uncircled.png" width="900">
 </div>
 
 As a starter, it's normal that you may have some difficulty in handling so much information altogether. Yet following our simple steps, soon you'll be more familiar with this community.
@@ -95,7 +95,7 @@ As people's abiding by the laws and regulations are of paramount importance in t
 On the left corner of the box lies a link to sign the [CIA](https://clasign.osinfra.cn/sign/gitee_openeuler-1611298811283968340).
 
 <div align=center>
-<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/circled.png">
+<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/circled.png" width="900">
 </div>
 
 **For most users:**
