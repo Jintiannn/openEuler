@@ -22,22 +22,22 @@
 </p>
 
 ---
-## Know more about openEuler.
+## What you should know about openEuler.
 
 ### 💁 What is it?
-
 OpenEuler is an open-source operating system designed for digital infrastructure. Here, anyone can freely *access*, *modify*, and *distribute* its source code. In the era of the digital economy, openEuler will facilitate the operation of 5G, optical cables, big data, cloud, etc.<br />
 
 ### 👀 Where it can be used?
-
-* various forms of devices, including **servers**, **cloud computing**, **edge computing**, **embedded**.
-* all-scenario applications————**I**nformation Technology (IT), **C**ommunication Technology (CT), and **O**perational Technology (OT)<br />
+* various forms of devices: **servers, cloud computing, edge computing, embedded, etc**
+* all-scenario applications: **I**nformation Technology (IT), **C**ommunication Technology (CT), and **O**perational Technology (OT)
 
 ### 👍 What's its advantange?
-
-Apart from Linux kernel, openEuler offers real-time kernels tailored to **edge computing**, **embedded**, **IoT**, etc. This not only enables openEuler to cover a broader range of business scenarios but also facilitates a unified development view and consistent development interfaces across different scenarios. This makes software more transferrable across different systems, enhancing efficiency for development. <br />
-
-With the openEuler platform as the foundation, the same application can migrate across various scenarios, including the cloud, edge computing, IoT, connected vehicles, industrial parks, etc. This capability reduces the development barriers and lays the foundation for a thriving application ecosystem.<br />
+* **Real-time Kernel Support**: In addition to the Linux kernel, openEuler provides a real-time kernel, which makes it stands out from traditional systems.
+* **Expanded Application Scenario Coverage**: OpenEuler covers a wider range of application scenarios.
+* **Unified Development Environment**: OpenEuler offers unified development views and interfaces.
+* **Seamless Software Migration**: OpenEuler facilitates the migration of software and applications between different systems.
+* **Enhanced Collaboration Across Domains**: OpenEuler improves collaboration among the end side, edge side, and cloud side.
+* **Lowered Development Barriers and Fostered Application Ecosystem Prosperity**: OpenEuler reduces development barriers while fostering the prosperity of the application ecosystem.
 
 ### 💭 What's its blueprint?
 * **Technology**:
@@ -53,29 +53,25 @@ With the openEuler platform as the foundation, the same application can migrate 
   * foster international collaboration with global partners and communities
   * offer high-level, world-class software
 
-## 🌞 Join us to make the community better.
+### 🌞 Why join us?
+* We share great believes: collective building👫, joint governance💬, shared benefits🎁
 
-* Our value: 
-💞collective building, joint governance, shared benefits
-
-* Our user comes from:
+* We have our users coming from:
   * 🏬 enterprises
   * 🏫 universities
+  * 🎒 high school
   * 🙌 sister communities
-  * 🎒 high school students
   * 🔬 research institutions
   * 👤 individual enthusiasts
 
 * Our community keeps growing day by day:
-So far, the community has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs. 
+So far, the community has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs.<br />
 ⭐ Grab the latest data [here](https://datastat.openeuler.org/en/overview).
 
 ---
 
-## 🏃 Embark on your Journey.
-
-For most users, click [here](https://www.openeuler.org/en/) to start. 
-
+## 🏃 Now, embark on your Journey.
+For most users, click [here](https://www.openeuler.org/en/) to start. <br />
 For engineers, the [archive](https://www.openeuler.org/en/download/archive/) is also available. <br/>
 
 <div align=center>
@@ -89,10 +85,9 @@ developers.</p>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/uncircled.png">
 </div>
 
-As a starter, it's normal that you may have some difficulty in handling so much information altogether. Yet following our simple steps, soon you'll be more familiar with this community~
+As a starter, it's normal that you may have some difficulty in handling so much information altogether. Yet following our simple steps, soon you'll be more familiar with this community.
 
 ### ✒️ Sign Contributor License Agreement (CLA) first.
-
 > Open source may indicate freedom, yet it not equals to freedom.
 
 As people's abiding by the laws and regulations are of paramount importance in the development of a community, anyone who are eager to join openEuler shall sign CLA first.
@@ -138,4 +133,3 @@ Within the community, we typically encourage not only identifying issues but als
 Finally, we extend a heartfelt welcome to everyone to join our community. With the openEuler platform, let’s come together to create a richer, more intelligent world.<br />
 
 <h1 align="center">🎊OpenEuler community welcomes each and every one of you!🎊<h1>
-
