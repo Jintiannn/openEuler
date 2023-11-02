@@ -22,41 +22,53 @@
 </p>
 
 ---
+## Know more about openEuler.
 
-### 💁 What’s openEuler?
+### 💁 What is it?
 
 OpenEuler is an open-source operating system designed for digital infrastructure. Here, anyone can freely *access*, *modify*, and *distribute* its source code. In the era of the digital economy, openEuler will facilitate the operation of 5G, optical cables, big data, cloud, etc.<br />
 
-### 👀 Where openEuler can be used?
+### 👀 Where it can be used?
 
-It can be widely deployed on various forms of devices, including **servers**, **cloud computing**, **edge computing**, **embedded**, etc. Its application scenarios cover **I**nformation Technology (IT), **C**ommunication Technology (CT), and **O**perational Technology (OT), providing a unified operating system that supports multiple devices.<br />
+* various forms of devices, including **servers**, **cloud computing**, **edge computing**, **embedded**.
+* all-scenario applications————**I**nformation Technology (IT), **C**ommunication Technology (CT), and **O**perational Technology (OT)<br />
 
-In the face of diverse application scenarios, openEuler goes beyond offering the Linux kernel alone. It also provides real-time kernels tailored to **edge computing**, **embedded**, **IoT**, etc. This offers customers a range of options, extending its coverage to a wider array of application scenarios. This stands as a crucial differentiator for openEuler compared to traditional operating systems.<br />
+### 👍 What's its advantange?
 
-Multiple kernels not only enables openEuler to cover a broader range of business scenarios but also facilitates a unified development view and consistent development interfaces across different scenarios. This makes software more transferrable across different systems, enhancing efficiency for development. <br />
+Apart from Linux kernel, openEuler offers real-time kernels tailored to **edge computing**, **embedded**, **IoT**, etc. This not only enables openEuler to cover a broader range of business scenarios but also facilitates a unified development view and consistent development interfaces across different scenarios. This makes software more transferrable across different systems, enhancing efficiency for development. <br />
 
 With the openEuler platform as the foundation, the same application can migrate across various scenarios, including the cloud, edge computing, IoT, connected vehicles, industrial parks, etc. This capability reduces the development barriers and lays the foundation for a thriving application ecosystem.<br />
 
-### 🔥 What is the core competitiveness of openEuler?
+### 💭 What's its blueprint?
+* **Technology**:
+  * explore diverse computing capabilities
+  * provide support at the system and toolchain's foundational levels
+  * create an operating system for diverse computing scenarios
+* **Team**:
+  * cultivate a talent pool with expertise in open source, infrastructure, and system architecture
+* **Community**:
+  * optimize community organization
+  * establish a sound and sustainable structure
+* **Globalization**:
+  * foster international collaboration with global partners and communities
+  * offer high-level, world-class software
 
-Apart from some hardcore technical aspects within the openEuler community, the core competitive strength of openEuler is also evident in the community's "soft" power.<br />
+## 🌞 Join us to make the community better.
 
-<div align=center>
-<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/goal_openeuler.png" width="830">
-</div>
+* Our value: 
+💞collective building, joint governance, shared benefits
 
-### 📈 What is the core driving force behind the rapid growth of openEuler?
+* Our user comes from:
+  * 🏬 enterprises
+  * 🏫 universities
+  * 🙌 sister communities
+  * 🎒 high school students
+  * 🔬 research institutions
+  * 👤 individual enthusiasts
 
-<div align=center>
-<img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/driver_openeuler.png" width="500">
-</div>
-
-**The active participation of community developers is the key driving force behind this progress.** <br />
-
-Based on publicly available information, since the source code was opened on December 31, 2019, openEuler has evolved into one of China's most dynamic open-source communities. The community has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs. Its diverse user base encompasses 🏬enterprises, 🔬research institutions, 🏫universities, 🙌sister communities, 👤individual enthusiasts, and even 🎒high school students.<br />
-
-
-
+* Our community keeps growing day by day:
+So far, the community has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs. 
+⭐ Grab the latest data [here](https://datastat.openeuler.org/en/overview).
 
 ---
 
