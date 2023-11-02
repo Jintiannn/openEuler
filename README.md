@@ -25,36 +25,36 @@
 ## What you should know about openEuler.
 
 ### 💁 What is it?
-OpenEuler is an open-source operating system designed for digital infrastructure. Here, anyone can freely *access*, *modify*, and *distribute* its source code. In the era of the digital economy, openEuler will facilitate the operation of 5G, optical cables, big data, cloud, etc.<br />
+OpenEuler is an open-source operating system designed for digital infrastructure. Here, anyone can freely *access*, *modify*, and *distribute* its source code. In the era of the digital economy, openEuler will facilitate the operation of 5G, big data, cloud, etc.<br />
 
 ### 👀 Where it can be used?
-* various forms of devices: **servers, cloud computing, edge computing, embedded, etc**
-* all-scenario applications: **I**nformation Technology (IT), **C**ommunication Technology (CT), and **O**perational Technology (OT)
+* various devices: **servers**, **cloud computing**, **edge computing**, **embedded**, etc
+* all-scenario applications: ***i*nformation technology (IT)**, ***c*omunication technology (CT)**, ***o*perational technology (OT)**, etc.
 
 ### 👍 What's its advantange?
-* **Real-time Kernel Support**: In addition to the Linux kernel, openEuler provides a real-time kernel, which makes it stands out from traditional systems.
-* **Expanded Application Scenario Coverage**: OpenEuler covers a wider range of application scenarios.
+* **Real-time Kernel Support**: In addition to the Linux kernel, openEuler provides a real-time kernel, which makes it stand out from traditional systems.
+* **Expanded Application Scenario Coverage**: OpenEuler now covers a wider range of application scenarios.
 * **Unified Development Environment**: OpenEuler offers unified development views and interfaces.
 * **Seamless Software Migration**: OpenEuler facilitates the migration of software and applications between different systems.
-* **Enhanced Collaboration Across Domains**: OpenEuler improves collaboration among the end side, edge side, and cloud side.
+* **Enhanced Collaboration Across Domains**: OpenEuler improves collaboration among the device, edge side, and cloud side.
 * **Lowered Development Barriers and Fostered Application Ecosystem Prosperity**: OpenEuler reduces development barriers while fostering the prosperity of the application ecosystem.
 
 ### 💭 What's its blueprint?
 * **Technology**:
   * explore diverse computing capabilities
+  * create operating systems for diverse computing scenarios
   * provide support at the system and toolchain's foundational levels
-  * create an operating system for diverse computing scenarios
 * **Team**:
   * cultivate a talent pool with expertise in open source, infrastructure, and system architecture
 * **Community**:
   * optimize community organization
   * establish a sound and sustainable structure
 * **Globalization**:
-  * foster international collaboration with global partners and communities
   * offer high-level, world-class software
+  * foster international collaboration with global partners and communities
 
 ### 🌞 Why join us?
-* We share great believes: collective building👫, joint governance💬, shared benefits🎁
+* We share strong believes: collective building👫, joint governance💬, shared benefits🎁
 
 * We have our users coming from:
   * 🏬 enterprises
@@ -65,7 +65,7 @@ OpenEuler is an open-source operating system designed for digital infrastructure
   * 👤 all walks of life
 
 * Our community keeps growing day by day:
-So far, the community has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs.<br />
+So far, it has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs.<br />
 ⭐ Grab the latest data [here](https://datastat.openeuler.org/en/overview).
 
 ---
