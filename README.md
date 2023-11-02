@@ -2,7 +2,7 @@
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/logo.png" width="500">
 </div>
 
-# Your Gateway to the Open-Source Community.
+<h1 align="center">Your Gateway to the Open-Source Community.</h1>
 
 <p align="center">
   <a href="https://www.reddit.com/">
@@ -60,7 +60,7 @@ Based on publicly available information, since the source code was opened on Dec
 
 ---
 
-## Embark on your Journey.
+## 🏃 Embark on your Journey.
 
 For most users, click [here](https://www.openeuler.org/en/) to start. 
 
@@ -121,11 +121,9 @@ Within the community, we typically encourage not only identifying issues but als
 **4.💡 Developing New Software.** Creating a brand-new software based on your ideas and contributing it to the openEuler community, becoming a part of the openEuler distribution.<br />
 **There are two methods to integrate your work into the openEuler community:** <br />
 * **Develop in Other Communities and Integrate into openEuler:** Assuming you already have your project on platforms like GitHub, GitLab, or Gitee, you only need to follow the third participation method to add the software to the 'src-openeuler' repo.<br />
-* **Develop within our Community and Integrate in openEuler.** Or you can establish your project on https://gitee.com/openeuler, like 'hosting' your project within the openEuler community.</p>
+* **Develop within our Community and Integrate in openEuler.** Or you can establish your project on [Gitee](https://gitee.com/openeuler), like 'hosting' your project within the openEuler community.</p>
 
 Finally, we extend a heartfelt welcome to everyone to join our community. With the openEuler platform, let’s come together to create a richer, more intelligent world.<br />
 
-<p align="center">
-🎊OpenEuler community welcomes each and every one of you!🎊
-</p>
+<h1 align="center">🎊OpenEuler community welcomes each and every one of you!🎊<h1>
 
