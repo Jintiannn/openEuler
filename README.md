@@ -68,7 +68,6 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 So far, it has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs.<br />
 ⭐ Grab the latest data [here](https://datastat.openeuler.org/en/overview).
 
----
 
 ## 🏃 Now, embark on your journey.
 For most users, click [here](https://www.openeuler.org/en/) to start. <br />
@@ -134,4 +133,4 @@ Assist in filling software packages if you find something missing.<br />
 
 Finally, we extend a heartfelt welcome to everyone to join our community❤️. With the openEuler platform, let’s come together to create a richer and more intelligent world.<br />
 
-<h1 align="center">🎊OpenEuler community welcomes each and every one of you!🎊<h1>
+<h2 align="center">🎊OpenEuler community welcomes each and every one of you!🎊<h2>
