@@ -22,7 +22,7 @@
 </p>
 
 ---
-## How much you know about openEuler?
+## How Much You Know About OpenEuler?
 
 ### 💁 What is it?
 OpenEuler is an open-source operating system designed for digital infrastructure. Here, anyone can freely *access*, *modify*, and *distribute* its source code. In the era of the digital economy, openEuler will enhance the operation of 5G, big data, cloud, and more.<br />
@@ -41,17 +41,17 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 
 ### 💭 What's its blueprint?
 * **Team**:
-  * cultivate a talent pool with expertise in open source, infrastructure, and system architecture
+  * develop a talent pool with expertise in open source, infrastructure, and system architecture
 * **Community**:
   * optimize community organization
   * establish a sound and sustainable structure
 * **Technology**:
-  * explore diverse computing capabilities
-  * create operating systems for diverse computing scenarios
-  * provide support at the system and toolchain's foundational levels
+  * create versatile operating systems
+  * explore diverse computing capabilities for varied scenarios
+  * provide foundational support in system and toolchain
 * **Globalization**:
-  * offer high-level, world-class software
-  * foster international collaboration with global partners and communities
+  * offer world-class software
+  * foster international collaboration
 
 ### 🌞 Why join us?
 * We share strong believes: collaborative construction👫, joint governance📣, shared benefits🎁
