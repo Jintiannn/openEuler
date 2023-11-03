@@ -33,9 +33,9 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 
 ### 👍 What's its advantange?
 * **Real-time Kernel Support**: In addition to the **Linux** kernel, openEuler provides a real-time kernel, which makes it stand out from the traditional systems.
-* **Expanded Application Scenario Coverage**: OpenEuler now covers a wider range of application scenarios.
-* **Unified Development Environment**: OpenEuler offers unified development views and interfaces.
 * **Seamless Software Migration**: OpenEuler facilitates the migration of software and applications between different systems.
+* **Unified Development Environment**: OpenEuler offers unified development views and interfaces.
+* **Expanded Application Scenario Coverage**: OpenEuler now covers a wider range of application scenarios.
 * **Enhanced Collaboration Across Domains**: OpenEuler improves collaboration among the device, edge side, and cloud side.
 * **Lowered Development Barriers and Fostered Application Ecosystem Prosperity**: OpenEuler reduces development barriers while fostering the prosperity of the application ecosystem.
 
@@ -66,7 +66,7 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 So far, it has attracted **1.9m<sup>+</sup>** users, and pulled in **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners, and **100<sup>+</sup>** SIGs.<br />
 🔥 Grab the latest data [here](https://datastat.openeuler.org/en/overview).
 
-## 🏃 Now, embark on your journey.
+## 🏃 Now, Embark on Your Journey in OpenEuler.
 
 For most users, click [here](https://www.openeuler.org/en/) to start. <br />
 For engineers, you can also visit our [archive](https://www.openeuler.org/en/download/archive/) for downloads. <br/>
@@ -110,20 +110,20 @@ Various special interest groups (SIG) constitute the community. Here you have tw
 
 With the CLA signed and your group joined or created, it's time to consider your contributions to the community. Here are four basic steps, which you can take one by one.</p>
 
-**1.🔎 Finding Bugs (and Offering Improvements if Possible):** <br />
+**1.🔎 Finding bugs (and offering improvements if possible):** <br />
 You can: *experience--→identify issues--→pose questions--→report them to the community (with instructive suggestions)* <br />
 In the community, we use the 'issue' system for reporting concerns. When submitting, contributors should specify the relevant 'repo' (repository) to which the issue pertains. For example, the 'kernel' of Linux operating system has its own repo dedicated to efficient issue management.</p>
 
-**2.💪 Fixing Bugs:** <br />
+**2.💪 Fixing bugs:** <br />
 Fixing bugs in the community takes your involvement to the next level, essentially embracing the developer's role. Here, we encourage not just spotting issues but also contributing solutions. Ideally, when you come across a problem, it's a great practice to offer a patch as a solution right away.</p>
 
-**3.📦 Contributing Software Packages:** 
+**3.📦 Contributing software packages:** 
 Help out by adding software packages if you notice something's missing.<br />
   **Before diving in, here are two key things developers need to get a handle on:** <br />
     * Understanding what a Linux software package is, or how the Linux operating system is structured.<br />
     * Knowing how to create a software package.</p>
 
-**4.💡 Developing New Software:** 
+**4.💡 Developing new software:** 
 Create a brand-new software based on your ideas and contribute it to the openEuler community, making it part of the openEuler distribution.<br />
 **You have the flexibility to choose one of two methods to integrate your work into the openEuler community:** <br />
   * **Develop in other communities and integrate into openEuler:** If you already have your project on platforms like GitHub, GitLab, or Gitee, you can follow the third participation method to add the software to the 'src-openeuler' repo.<br />
