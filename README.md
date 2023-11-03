@@ -131,4 +131,4 @@ Create a brand-new software based on your ideas and contribute it to the openEul
 
 Finally, we extend a heartfelt welcome to everyone to join our community❤️. With the openEuler platform, let’s come together to create a richer and more intelligent world.<br />
 
-<p align="center">🎊OpenEuler community welcomes you all!</p>
+<p align="center">🎊 OpenEuler community welcomes you all! 🎊</p>
