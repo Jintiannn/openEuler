@@ -22,17 +22,17 @@
 </p>
 
 ---
-## What you should know about openEuler.
+## How much you know about openEuler?
 
 ### 💁 What is it?
 OpenEuler is an open-source operating system designed for digital infrastructure. Here, anyone can freely *access*, *modify*, and *distribute* its source code. In the era of the digital economy, openEuler will facilitate the operation of 5G, big data, cloud, etc.<br />
 
-### 👀 Where it can be used?
+### 👀 Where to find it?
 * various devices: **servers**, **cloud computing**, **edge computing**, **embedded**, etc
 * all-scenario applications: ***i*nformation technology (IT)**, ***c*omunication technology (CT)**, ***o*perational technology (OT)**, etc.
 
 ### 👍 What's its advantange?
-* **Real-time Kernel Support**: In addition to the Linux kernel, openEuler provides a real-time kernel, which makes it stand out from traditional systems.
+* **Real-time Kernel Support**: In addition to the **Linux** kernel, openEuler provides a real-time kernel, which makes it stand out from the traditional systems.
 * **Expanded Application Scenario Coverage**: OpenEuler now covers a wider range of application scenarios.
 * **Unified Development Environment**: OpenEuler offers unified development views and interfaces.
 * **Seamless Software Migration**: OpenEuler facilitates the migration of software and applications between different systems.
@@ -40,22 +40,21 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 * **Lowered Development Barriers and Fostered Application Ecosystem Prosperity**: OpenEuler reduces development barriers while fostering the prosperity of the application ecosystem.
 
 ### 💭 What's its blueprint?
-* **Technology**:
-  * explore diverse computing capabilities
-  * create operating systems for diverse computing scenarios
-  * provide support at the system and toolchain's foundational levels
 * **Team**:
   * cultivate a talent pool with expertise in open source, infrastructure, and system architecture
 * **Community**:
   * optimize community organization
   * establish a sound and sustainable structure
+* **Technology**:
+  * explore diverse computing capabilities
+  * create operating systems for diverse computing scenarios
+  * provide support at the system and toolchain's foundational levels
 * **Globalization**:
   * offer high-level, world-class software
   * foster international collaboration with global partners and communities
 
 ### 🌞 Why join us?
 * We share strong believes: collaborative construction👫, joint governance💬, shared benefits🎁
-
 * We have our users coming from:
   * 🏬 enterprises
   * 🏫 universities
@@ -63,28 +62,26 @@ OpenEuler is an open-source operating system designed for digital infrastructure
   * 🙌 sister communities
   * 🔬 research institutions
   * 👤 all walks of life
-
-* Our community keeps growing day by day:
+* **Our community keeps growing day by day**:
 So far, it has attracted **1.9m<sup>+</sup>** users, **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners along with **100<sup>+</sup>** SIGs.<br />
-⭐ Grab the latest data [here](https://datastat.openeuler.org/en/overview).
-
+🔥 Grab the latest data [here](https://datastat.openeuler.org/en/overview).
 
 ## 🏃 Now, embark on your journey.
+
 For most users, click [here](https://www.openeuler.org/en/) to start. <br />
-For engineers, the [archive](https://www.openeuler.org/en/download/archive/) is also available. <br/>
+For engineers, you can also visit our [archive](https://www.openeuler.org/en/download/archive/) for downloads. <br/>
 
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/Download_Archive.png" width="900">
 </div>
 
-Moving the cursor to [Developers](https://www.openeuler.org/en/) on the menu bar, you can see a drop-down list box. From here you can join our team as 
-developers.</p>
+Move the cursor to [Developers](https://www.openeuler.org/en/) on the menu bar, you can see a drop-down list box. From here you can join our team as developers.</p>
 
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/uncircled.png" width="900">
 </div>
 
-As a starter, it's normal that you may have some difficulty in handling so much information altogether. Yet following our simple steps, soon you'll be more familiar with this community.
+As a starter, it's normal that you may have some difficulty in handling so much information altogether. Yet following our simple steps, soon you'll be more familiar with the community.
 
 ### ✒️ Sign Contributor License Agreement (CLA) first.
 > Open source may indicate freedom, yet it not equals to freedom.
@@ -104,7 +101,7 @@ On the left corner of the box lies a link to sign the [CLA](https://clasign.osin
 ### 👥 Join a group.
 
 Various special interest groups (SIG) constitute the community. **Here you have two options:**
-* **Find and apply for groups where you share the same unique interest.** <br />
+* **Find and apply for groups where you share the same interest.** <br />
 Find the [existing SIG](https://gitee.com/openeuler/community/tree/master/sig).<br />
 * **Apply for creating one when yours is niche, so that others can find and join you!** <br />
 Read [how the Technical Committee (TC) manage SIG](https://gitee.com/openeuler/community/tree/master/zh/technical-committee/governance).</p>
