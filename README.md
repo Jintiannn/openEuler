@@ -54,7 +54,7 @@ OpenEuler is an open-source operating system designed for digital infrastructure
   * foster international collaboration with global partners and communities
 
 ### 🌞 Why join us?
-* We share strong believes: collaborative construction👫, joint governance💬, shared benefits🎁
+* We share strong believes: collaborative construction👫, joint governance📣, shared benefits🎁
 * We have our users coming from:
   * 🏬 enterprises
   * 🏫 universities
