@@ -69,19 +69,19 @@ So far, it has attracted **1.9m<sup>+</sup>** users and pulled in **16th<sup>+</
 ## 🏃 Now, Embark on Your Journey in OpenEuler.
 
 For most users, visit `https://www.openeuler.org/en/` to start. <br />
-For engineers, you can also visit our [archive](https://www.openeuler.org/en/download/archive/) for downloads. <br/>
-
+For engineers, you can also visit our [archive](https://www.openeuler.org/en/download/archive/) for downloads. <br />
+👇<br />
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/Download_Archive.png" width="900">
 </div>
 
-Move the cursor to [Developers](https://www.openeuler.org/en/) in the menu bar. You will see a drop-down list box, where you can join our team as a developer.</p>
-
+✨ Move the cursor to [Developers](https://www.openeuler.org/en/) in the menu bar. You will see a drop-down list box, where you can join our team as a developer.</p>
+👇<br />
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/uncircled.png" width="900">
 </div>
 
-As a starter, it's normal if you have some difficulty in handling so much information altogether. Yet following our simple steps, soon you'll be more familiar with the community.
+As a starter, it's `normal` if you have some difficulty in handling so much information altogether. Yet following our simple steps, soon you'll be more familiar with the community.
 
 ### ✒️ Sign the Contributor License Agreement (CLA) first.
 > Open source may imply freedom, but it does not necessarily equate to freedom.
@@ -89,7 +89,7 @@ As a starter, it's normal if you have some difficulty in handling so much inform
 As abiding by laws and regulations is of paramount importance in the development of a community, anyone who is eager to join openEuler shall sign a CLA first.
 
 In the left corner of the box, you'll see a link to sign the [CLA](https://clasign.osinfra.cn/sign/gitee_openeuler-1611298811283968340).
-
+👇<br />
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/circled.png" width="900">
 </div>
