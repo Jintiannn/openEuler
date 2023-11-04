@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/share_on-reddit-%23FF4500?style=plastic&logo=reddit&logoColor=%23FF4500" />
   </a>
   <a href="https://news.ycombinator.com/">
-    <img src="https://img.shields.io/badge/share_on-Hacker%20News-%23F0652F?style=plastic&logo=Y%20Combinator&logoColor=%23F0652F" />
+    <img src="https://img.shields.io/badge/share_on-hacker_news-%23F0652F?style=plastic&logo=ycombinator&logoColor=%23F0652F" />
   </a>
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/share_on-X-%23000000?style=plastic&logo=X&logoColor=%23000000" />
