@@ -112,7 +112,7 @@ With the CLA signed and your group joined or created, it's time to consider your
 
 **1.🔎 Find bugs:** <br />
 Identifying and reporting bugs is one of the easiest ways to get involved in the community. You can report anything that makes you uncomfortable and, if possible, suggest improvements.<br />
-Here, we use the 'issue' system for reporting concerns. When submitting, contributors should specify the relevant 'repo' (repository) to which the issue pertains. For example, the 'kernel' of the Linux operating system has its own repo dedicated to efficient issue management.</p>
+Here, we use the `issue` system for reporting concerns. When submitting, contributors should specify the relevant `repo` (repository) to which the issue pertains. For example, the `kernel` of the Linux operating system has its own repo dedicated to efficient issue management.</p>
 
 **2.💪 Fix bugs:** <br />
 Fixing bugs in the community takes your involvement to the next level, essentially embracing the developer's role. Here, we encourage not just spotting issues but also contributing solutions. Ideally, when you come across a problem, it's a great practice to offer a patch as a solution right away.</p>
