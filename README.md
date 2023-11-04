@@ -29,9 +29,9 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 
 ### 👀 Where can you find it?
 * various devices: **servers**, **cloud computing**, **edge computing**, **embedded**, etc
-* all-scenario applications: ***i*nformation technology (IT)**, ***c*omunication technology (CT)**, ***o*perational technology (OT)**, etc.
+* all-scenario applications: ***i*nformation technology (IT)**, ***c*ommunication technology (CT)**, ***o*perational technology (OT)**, etc.
 
-### 👍 What's its advantange?
+### 👍 What's its advantage?
 * **Real-time Kernel Support**: Apart from **Linux**, it provides other real-time kernels, which makes it stand out from the traditional systems.
 * **Unified Development Environment**: It offers unified development views and interfaces.
 * **Expanded Application Scenario Coverage**: It now covers a wider range of application scenarios.
@@ -47,7 +47,7 @@ OpenEuler is an open-source operating system designed for digital infrastructure
   * establish a sound and sustainable structure
 * **Technology**:
   * create versatile operating systems
-  * provide foundational support in system and toolchain
+  * provide foundational support in systems and toolchains
   * explore diverse computing capabilities for varied scenarios
 * **Globalization**:
   * offer world-class software
@@ -62,8 +62,8 @@ OpenEuler is an open-source operating system designed for digital infrastructure
   * 🙌 sister communities
   * 🔬 research institutions
   * 👤 all walks of life
-* **Our community keeps growing everyday**:
-So far, it has attracted **1.9m<sup>+</sup>** users, and pulled in **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners, and **100<sup>+</sup>** SIGs.<br />
+* **Our community keeps growing every day**:
+So far, it has attracted **1.9m<sup>+</sup>** users and pulled in **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners, and **100<sup>+</sup>** SIGs.<br />
 🔥 Grab the latest data [here](https://datastat.openeuler.org/en/overview).
 
 ## 🏃 Now, Embark on Your Journey in OpenEuler.
@@ -75,7 +75,7 @@ For engineers, you can also visit our [archive](https://www.openeuler.org/en/dow
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/Download_Archive.png" width="900">
 </div>
 
-Move the cursor to [Developers](https://www.openeuler.org/en/) in the menu bar.You will see a drop-down list box, where you can join our team as a developer.</p>
+Move the cursor to [Developers](https://www.openeuler.org/en/) in the menu bar. You will see a drop-down list box, where you can join our team as a developer.</p>
 
 <div align=center>
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/uncircled.png" width="900">
@@ -83,7 +83,7 @@ Move the cursor to [Developers](https://www.openeuler.org/en/) in the menu bar.Y
 
 As a starter, it's normal if you have some difficulty in handling so much information altogether. Yet following our simple steps, soon you'll be more familiar with the community.
 
-### ✒️ Sign Contributor License Agreement (CLA) first.
+### ✒️ Sign the Contributor License Agreement (CLA) first.
 > Open source may imply freedom, but it does not necessarily equate to freedom.
 
 As abiding by laws and regulations is of paramount importance in the development of a community, anyone who is eager to join openEuler shall sign a CLA first.
@@ -101,9 +101,9 @@ In the left corner of the box, you'll see a link to sign the [CLA](https://clasi
 ### 👥 Join a group.
 
 Various special interest groups (SIG) constitute the community. Here you have two options:
-* **Find and apply for groups where you share the same interest.** <br />
+* **Find and apply for groups where you share the same interests.** <br />
 [Find the existing SIG](https://gitee.com/openeuler/community/tree/master/sig).<br />
-* **Apply to create one when yours is niche, so that others can find and join you!** <br />
+* **Apply to create one when yours is a niche so that others can find and join you!** <br />
 [Read how the Technical Committee (TC) manages SIG](https://gitee.com/openeuler/community/tree/master/zh/technical-committee/governance).</p>
 
 ### 😯 What can I do?
@@ -112,7 +112,7 @@ With the CLA signed and your group joined or created, it's time to consider your
 
 **1.🔎 Find bugs (and offer improvements if possible):** <br />
 You can: *experience--→identify issues--→pose questions--→report them to the community (with instructive suggestions)* <br />
-In the community, we use the 'issue' system for reporting concerns. When submitting, contributors should specify the relevant 'repo' (repository) to which the issue pertains. For example, the 'kernel' of Linux operating system has its own repo dedicated to efficient issue management.</p>
+In the community, we use the 'issue' system for reporting concerns. When submitting, contributors should specify the relevant 'repo' (repository) to which the issue pertains. For example, the 'kernel' of the Linux operating system has its own repo dedicated to efficient issue management.</p>
 
 **2.💪 Fix bugs:** <br />
 Fixing bugs in the community takes your involvement to the next level, essentially embracing the developer's role. Here, we encourage not just spotting issues but also contributing solutions. Ideally, when you come across a problem, it's a great practice to offer a patch as a solution right away.</p>
@@ -124,7 +124,7 @@ Help out by adding software packages if you notice something's missing.<br />
   * Know how to create a software package.</p>
 
 **4.💡 Develop new software:** 
-Create a brand-new software based on your ideas and contribute it to the openEuler community, making it part of the openEuler distribution.<br />
+Create brand-new software based on your ideas and contribute it to the openEuler community, making it part of the openEuler distribution.<br />
 **You have the flexibility to choose one of two methods to integrate your work into the openEuler community:** <br />
   * **Develop in other communities and integrate into openEuler:** If you already have your project on platforms like GitHub, GitLab, or Gitee, you can follow the third participation method to add the software to the 'src-openeuler' repo.<br />
   * **Develop within our community and integrate into openEuler:** Alternatively, you can establish your project on [Gitee](https://gitee.com/openeuler), which is similar to 'hosting' your project within the openEuler community.</p>
