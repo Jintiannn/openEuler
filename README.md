@@ -32,12 +32,12 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 * all-scenario applications: ***i*nformation technology (IT)**, ***c*ommunication technology (CT)**, ***o*perational technology (OT)**, etc.
 
 ### 👍 What's its advantage?
-* expanded application scenario coverage
-* unified development views and interfaces
-* real-time kernel support apart from Linux
-* enhanced collaboration among device, edge side, and cloud side
-* seamless software migration and application between different systems
-* lowered development barriers and fostered application ecosystem prosperity
+* `expanded` application scenario coverage
+* `unified` development views and interfaces
+* `real-time` kernel support apart from Linux
+* `enhanced` collaboration among device, edge side, and cloud side
+* `seamless` software migration and application between different systems
+* `lowered` development barriers and `fostered` application ecosystem prosperity
 
 ### 💭 What's its blueprint?
 * **Team**:
