@@ -132,3 +132,4 @@ Create brand-new software based on your ideas and contribute it to the openEuler
 <div align=center>
 <h3>Let’s come together to create a richer and more intelligent world with openEuler.<br />
 🎊OpenEuler community welcomes you all!🎊 <h3>
+</h3>
