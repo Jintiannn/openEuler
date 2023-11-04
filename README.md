@@ -2,7 +2,7 @@
 <img src="https://github.com/Jintiannn/OpenEuler_/blob/main/image/logo.png" width="500">
 </div>
 
-<h1 align="center">Your Gateway to Open-Source Community.</h1>
+<h1 align="center">Your Gateway to Open-Source Community</h1>
 
 <p align="center">
   <a href="https://www.reddit.com/">
