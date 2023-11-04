@@ -130,7 +130,9 @@ Create brand-new software based on your ideas and contribute it to the openEuler
   * **Develop within our community and integrate into openEuler:** Alternatively, you can establish your project on [openEuer](https://gitee.com/openeuler), which is similar to 'hosting' your project within the openEuler community.</p>
 
 <div align=center>
-<h4>With the openEuler platform, let’s come together to create a richer and more intelligent world.</h4><br />
+<h3>Let’s come together to create a richer and more intelligent world with openEuler.</h3>
 </div>
 
-<p align="center">🎊 OpenEuler community welcomes you all! 🎊</p>
+<p align="center">
+<h2>🎊 OpenEuler community welcomes you all! 🎊<h2>
+</p>
