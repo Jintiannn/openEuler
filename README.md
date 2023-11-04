@@ -64,7 +64,7 @@ OpenEuler is an open-source operating system designed for digital infrastructure
   * 👤 all walks of life
 * **Our community keeps growing every day**:
 So far, it has attracted **1.9m<sup>+</sup>** users and pulled in **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners, and **100<sup>+</sup>** SIGs.<br />
-🔥 See [how many people are with us now](https://datastat.openeuler.org/en/overview).
+🔥 See [how many people are with us now](https://datastat.openeuler.org/en/overview)!
 
 ## 🏃 Now, Embark on Your Journey in OpenEuler.
 
