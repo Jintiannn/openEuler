@@ -127,7 +127,7 @@ Help out by adding software packages if you notice something's missing.<br />
 Create brand-new software based on your ideas and contribute it to the openEuler community, making it part of the openEuler distribution.<br />
 **You have the flexibility to choose one of two methods to integrate your work into the openEuler community:** <br />
   * **Develop in other communities and integrate into openEuler:** If you already have your project on platforms like GitHub, GitLab, or Gitee, you can follow the third participation method to add the software to the 'src-openeuler' repo.<br />
-  * **Develop within our community and integrate into openEuler:** Alternatively, you can establish your project on [Gitee](https://gitee.com/openeuler), which is similar to 'hosting' your project within the openEuler community.</p>
+  * **Develop within our community and integrate into openEuler:** Alternatively, you can establish your project on [openEuer](https://gitee.com/openeuler), which is similar to 'hosting' your project within the openEuler community.</p>
 
 Finally, we extend a heartfelt welcome to everyone to join our community❤️. With the openEuler platform, let’s come together to create a richer and more intelligent world.<br />
 
