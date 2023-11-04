@@ -40,30 +40,30 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 * `lowered` development barriers and `fostered` application ecosystem prosperity
 
 ### 💭 What's its blueprint?
-* **Team**:
-  * cultivate expertise in open source, infrastructure, and system architecture
-* **Community**:
+* **Team:**
+  * cultivate experts in open source, infrastructure, and system architecture
+* **Community:**
   * optimize community organization
   * establish a sound and sustainable structure
-* **Technology**:
+* **Technology:**
   * create versatile operating systems
   * provide foundational support in systems and toolchains
   * explore diverse computing capabilities for varied scenarios
-* **Globalization**:
+* **Globalization:**
   * offer world-class software
   * foster international collaboration
 
 ### 🌞 Why join us?
-* We share strong believes: collaborative construction👫, joint governance📣, shared benefits🎁
-* We have our users coming from:
+* **We share strong believes:** collaborative construction👫, joint governance📣, shared benefits🎁
+* **We have our users coming from:**
   * 🏬 enterprises
   * 🏫 universities
   * 🎒 high schools
   * 🙌 sister communities
   * 🔬 research institutions
   * 👤 all walks of life
-* **Our community keeps growing every day**:
-So far, it has attracted **1.9m<sup>+</sup>** users and pulled in **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners, and **100<sup>+</sup>** SIGs.<br />
+* **Our community keeps growing every day:**
+So far, it has attracted **over 1.9 million** users, **16,000+** contributors, **300+** partners, and established **100+** SIGs.<br />
 🔥 See [how many people are with us now](https://datastat.openeuler.org/en/overview)!
 
 ## 🏃 Now, Embark on Your Journey in OpenEuler.
@@ -117,17 +117,17 @@ Here, we use the `issue` system for reporting concerns. When submitting, contrib
 **2. 💪 Fix bugs:** <br />
 Fixing bugs in the community takes your involvement to the next level, essentially embracing the developer's role. Here, we encourage not just spotting issues but also contributing solutions. Ideally, when you come across a problem, it's a great practice to offer a patch as a solution right away.</p>
 
-**3. 📦 Contribute software packages:** 
+**3. 📦 Contribute software packages:**  <br />
 Help out by adding software packages if you notice something's missing.<br />
-**Before diving in, here are two key things developers need to get a handle on:** <br />
+**But before diving in, here are two key things developers need to get a handle on:** <br />
   * Understand what a Linux software package is, or how the Linux operating system is structured.<br />
   * Know how to create a software package.</p>
 
-**4. 💡 Develop new software:** 
+**4. 💡 Develop new software:**  <br />
 Create brand-new software based on your ideas and contribute it to the openEuler community, making it part of the openEuler distribution.<br />
-**You have the flexibility to choose one of two methods to integrate your work into the openEuler community:** <br />
+* **You have the flexibility to choose one of two methods to integrate your work into the openEuler community:** <br />
   * **Develop in other communities and integrate into openEuler:** If you already have your project on platforms like GitHub, GitLab, or Gitee, you can follow the third participation method to add the software to the 'src-openeuler' repo.<br />
-  * **Develop within our community and integrate into openEuler:** Alternatively, you can establish your project on [openEuer](https://gitee.com/openeuler), which is similar to 'hosting' your project within the openEuler community.</p>
+  * **Develop within our community and integrate into openEuler:** Alternatively, you can establish your project on [openEuler](https://gitee.com/openeuler), which is similar to 'hosting' your project within the openEuler community.</p>
 
 <div align=center>
   <h3> Come together to create a richer and more intelligent world with us!<h3>
