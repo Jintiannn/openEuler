@@ -111,7 +111,7 @@ Various special interest groups (SIG) constitute the community. Here you have tw
 With the CLA signed and your group joined or created, it's time to consider your contributions to the community. Here are four basic steps, which you can take one by one.</p>
 
 **1.🔎 Find bugs (and offer improvements if possible):** <br />
-`experience--→identify issues--→pose questions--→report them to the community (with instructive suggestions)` <br />
+`experience-→identify issues-→pose questions-→report them to the community (with instructive suggestions)` <br />
 In the community, we use the 'issue' system for reporting concerns. When submitting, contributors should specify the relevant 'repo' (repository) to which the issue pertains. For example, the 'kernel' of the Linux operating system has its own repo dedicated to efficient issue management.</p>
 
 **2.💪 Fix bugs:** <br />
