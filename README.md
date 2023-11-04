@@ -119,9 +119,9 @@ Fixing bugs in the community takes your involvement to the next level, essential
 
 **3.📦 Contributing software packages:** 
 Help out by adding software packages if you notice something's missing.<br />
-  **Before diving in, here are two key things developers need to get a handle on:** <br />
-    * Understanding what a Linux software package is, or how the Linux operating system is structured.<br />
-    * Knowing how to create a software package.</p>
+**Before diving in, here are two key things developers need to get a handle on:** <br />
+  * Understanding what a Linux software package is, or how the Linux operating system is structured.<br />
+  * Knowing how to create a software package.</p>
 
 **4.💡 Developing new software:** 
 Create a brand-new software based on your ideas and contribute it to the openEuler community, making it part of the openEuler distribution.<br />
