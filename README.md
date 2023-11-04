@@ -110,20 +110,20 @@ Various special interest groups (SIG) constitute the community. Here you have tw
 
 With the CLA signed and your group joined or created, it's time to consider your contributions to the community. Here are four basic steps, which you can take one by one.</p>
 
-**1.🔎 Find bugs:** <br />
+**1. 🔎 Find bugs:** <br />
 Identifying and reporting bugs is one of the easiest ways to get involved in the community. You can report anything that makes you uncomfortable and, if possible, suggest improvements.<br />
 Here, we use the `issue` system for reporting concerns. When submitting, contributors should specify the relevant `repo` (repository) to which the issue pertains. For example, the `kernel` of the Linux operating system has its own repo dedicated to efficient issue management.</p>
 
-**2.💪 Fix bugs:** <br />
+**2. 💪 Fix bugs:** <br />
 Fixing bugs in the community takes your involvement to the next level, essentially embracing the developer's role. Here, we encourage not just spotting issues but also contributing solutions. Ideally, when you come across a problem, it's a great practice to offer a patch as a solution right away.</p>
 
-**3.📦 Contribute software packages:** 
+**3. 📦 Contribute software packages:** 
 Help out by adding software packages if you notice something's missing.<br />
 **Before diving in, here are two key things developers need to get a handle on:** <br />
   * Understand what a Linux software package is, or how the Linux operating system is structured.<br />
   * Know how to create a software package.</p>
 
-**4.💡 Develop new software:** 
+**4. 💡 Develop new software:** 
 Create brand-new software based on your ideas and contribute it to the openEuler community, making it part of the openEuler distribution.<br />
 **You have the flexibility to choose one of two methods to integrate your work into the openEuler community:** <br />
   * **Develop in other communities and integrate into openEuler:** If you already have your project on platforms like GitHub, GitLab, or Gitee, you can follow the third participation method to add the software to the 'src-openeuler' repo.<br />
