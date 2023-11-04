@@ -22,13 +22,14 @@
 </p>
 
 ---
+
 ## How Much You Know About OpenEuler?
 
 ### 💁 What is it?
 OpenEuler is an open-source operating system designed for digital infrastructure. Here, anyone can freely *access*, *modify*, and *distribute* its source code. In the era of the digital economy, openEuler will enhance the operation of 5G, big data, cloud, and more.<br />
 
 ### 👀 Where can you find it?
-* various devices: **servers**, **cloud computing**, **edge computing**, **embedded**, etc
+* various devices: **servers**, **cloud computing**, **edge computing**, **embedded**, etc.
 * all-scenario applications: ***i*nformation technology (IT)**, ***c*ommunication technology (CT)**, ***o*perational technology (OT)**, etc.
 
 ### 👍 What's its advantage?
@@ -112,6 +113,7 @@ With the CLA signed and your group joined or created, it's time to consider your
 
 **1. 🔎 Find bugs:** <br />
 Identifying and reporting bugs is one of the easiest ways to get involved in the community. You can report anything that makes you uncomfortable and, if possible, suggest improvements.<br />
+
 Here, we use the `issue` system for reporting concerns. When submitting, contributors should specify the relevant `repo` (repository) to which the issue pertains. For example, the `kernel` of the Linux operating system has its own repo dedicated to efficient issue management.</p>
 
 **2. 💪 Fix bugs:** <br />
