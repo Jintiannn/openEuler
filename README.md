@@ -129,8 +129,8 @@ Create brand-new software based on your ideas and contribute it to the openEuler
   * **Develop in other communities and integrate into openEuler:** If you already have your project on platforms like GitHub, GitLab, or Gitee, you can follow the third participation method to add the software to the 'src-openeuler' repo.<br />
   * **Develop within our community and integrate into openEuler:** Alternatively, you can establish your project on [openEuer](https://gitee.com/openeuler), which is similar to 'hosting' your project within the openEuler community.</p>
 
-<p align=center>
+<div align=center>
 <h4>With the openEuler platform, let’s come together to create a richer and more intelligent world.</h4><br />
-</p>
+</div>
 
 <p align="center">🎊 OpenEuler community welcomes you all! 🎊</p>
