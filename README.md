@@ -36,7 +36,7 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 * `unified development views and interfaces`
 * `real-time kernel support apart from Linux`
 * `enhanced collaboration among device, edge side, and cloud side`
-* `seamless software migration and applications between different systems`
+* `seamless software migration and application between different systems`
 * `lowered development barriers and fostered application ecosystem prosperity`
 
 ### 💭 What's its blueprint?
