@@ -33,10 +33,10 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 
 ### 👍 What's its advantange?
 * **Real-time Kernel Support**: In addition to the **Linux** kernel, openEuler provides a real-time kernel, which makes it stand out from the traditional systems.
-* **Seamless Software Migration**: OpenEuler facilitates the migration of software and applications between different systems.
 * **Unified Development Environment**: OpenEuler offers unified development views and interfaces.
 * **Expanded Application Scenario Coverage**: OpenEuler now covers a wider range of application scenarios.
 * **Enhanced Collaboration Across Domains**: OpenEuler improves collaboration among the device, edge side, and cloud side.
+* **Seamless Software Migration**: OpenEuler facilitates the migration of software and applications between different systems.
 * **Lowered Development Barriers and Fostered Application Ecosystem Prosperity**: OpenEuler reduces development barriers while fostering the prosperity of the application ecosystem.
 
 ### 💭 What's its blueprint?
