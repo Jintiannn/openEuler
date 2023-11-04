@@ -68,7 +68,7 @@ So far, it has attracted **1.9m<sup>+</sup>** users and pulled in **16th<sup>+</
 
 ## 🏃 Now, Embark on Your Journey in OpenEuler.
 
-For most users, click [here](https://www.openeuler.org/en/) to start. <br />
+For most users, visit `https://www.openeuler.org/en/` to start. <br />
 For engineers, you can also visit our [archive](https://www.openeuler.org/en/download/archive/) for downloads. <br/>
 
 <div align=center>
