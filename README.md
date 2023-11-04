@@ -41,14 +41,14 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 
 ### 💭 What's its blueprint?
 * **Team**:
-  * develop a talent pool with expertise in open source, infrastructure, and system architecture
+  * cultivate expertise in open source, infrastructure, and system architecture
 * **Community**:
   * optimize community organization
   * establish a sound and sustainable structure
 * **Technology**:
   * create versatile operating systems
-  * explore diverse computing capabilities for varied scenarios
   * provide foundational support in system and toolchain
+  * explore diverse computing capabilities for varied scenarios
 * **Globalization**:
   * offer world-class software
   * foster international collaboration
@@ -62,7 +62,7 @@ OpenEuler is an open-source operating system designed for digital infrastructure
   * 🙌 sister communities
   * 🔬 research institutions
   * 👤 all walks of life
-* **Our community keeps growing day by day**:
+* **Our community keeps growing everyday**:
 So far, it has attracted **1.9m<sup>+</sup>** users, and pulled in **16th<sup>+</sup>** contributors, **300<sup>+</sup>** partners, and **100<sup>+</sup>** SIGs.<br />
 🔥 Grab the latest data [here](https://datastat.openeuler.org/en/overview).
 
