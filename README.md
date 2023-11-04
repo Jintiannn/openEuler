@@ -58,7 +58,7 @@ OpenEuler is an open-source operating system designed for digital infrastructure
 * We have our users coming from:
   * 🏬 enterprises
   * 🏫 universities
-  * 🎒 high school
+  * 🎒 high schools
   * 🙌 sister communities
   * 🔬 research institutions
   * 👤 all walks of life
